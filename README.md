@@ -1,6 +1,6 @@
 # Technical Call Spike: Root-Cause Analysis on Databricks
 
-Take-home assessment (Intelligence Analytics Engineer). Technical support calls jumped from **80 to ~148 a day
+Technical support calls jumped from **80 to ~148 a day
 (+85%) overnight on 26 May 2026** and stayed high. This repository holds the full analysis: a medallion data model in
 Databricks (Unity Catalog), the Python analysis behind every number, and a multipage **Databricks App** that lets a
 business user explore what happened, what drove it, why, what customers say and what to monitor.
