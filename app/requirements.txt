@@ -1,0 +1,6 @@
+# pandas and numpy are pre-installed in the Databricks Apps runtime. Streamlit is pinned to the version the app is
+# tested with locally (app/test_app.py): click-to-drill charts and table rows need Streamlit >= 1.35.
+streamlit==1.38.0
+plotly>=5.20
+databricks-sql-connector>=3.3
+databricks-sdk>=0.30

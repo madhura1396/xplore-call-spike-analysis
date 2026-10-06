@@ -1,0 +1,4 @@
+# App theme: light base (charts are drawn on white) and the app's blue as the accent (sliders, selections, bars).
+[theme]
+base = "light"
+primaryColor = "#2E6DB4"
